@@ -1,5 +1,5 @@
 # About
 
-Aplicatie care implementeaza jocul de [avioane pe hartie](https://ro.wikipedia.org/wiki/Avioane_(joc)).
+Application similar to the battleships paper game, but with plane shapes.
 
-Status: Hiatus
+Status: Dropped due to bad gameplay on mobile phones.
